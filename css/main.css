@@ -48,7 +48,6 @@ nav{
     float: left;
     width:33.33%;
     padding:10px;
-    display: inline-block;
 }
 .row:after {
     content: "";
@@ -64,7 +63,10 @@ nav{
     text-align: center;
 }
 .music-image{
-    background-image
+    background-image :url('../assets/piano.jpg');
+     max-width:50vw ;
+     margin-left: 25%;
+     opacity: 1;
 }
 .piano-img{
     opacity: 0.3;
@@ -72,7 +74,7 @@ nav{
 footer{
     padding: 3%;
     text-align: center;
-    background: cyan;
+    background:black;
 }
 footer a{
     padding-left: 10px;
