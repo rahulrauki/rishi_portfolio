@@ -9,10 +9,10 @@ body{
     box-sizing: border-box;
 }
 body{
-    background-color: orange;
+    background-color:black;
 }
-.h1{
-    color-green;
+h1{
+    color:green;
 }
 .bg-image{
     width:100%;
@@ -57,10 +57,14 @@ nav{
   }
   p{
       font-size: 30px;
+      color: whitesmoke;
   }
   
 .passion-content{
     text-align: center;
+}
+.music-image{
+    background-image
 }
 .piano-img{
     opacity: 0.3;
